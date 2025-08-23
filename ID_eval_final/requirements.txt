@@ -1,0 +1,7 @@
+accelerate==1.7.0
+av==14.4.0
+insightface==0.7.3
+onnx==1.17.0
+onnxruntime-gpu==1.19.2
+transformers==4.51.3
+
