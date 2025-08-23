@@ -60,6 +60,8 @@ To acquire the generated the video, please run:
 ```bash
 sh run.sh
 ``` 
+## Evaluation
+Please check `<repo-root>/ID_eval_finals/`
 
 <!-- 
 ### Setup for Preprocess Tools
