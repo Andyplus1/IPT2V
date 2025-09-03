@@ -4,7 +4,7 @@
 base_dir="/network_space/server126/shared/hcc/ID_eval_final"
 
 DIMENSION=(
-    aesthetic_quality
+    motion_smoothness
     imaging_quality
 )
 

@@ -4,4 +4,5 @@ insightface==0.7.3
 onnx==1.17.0
 onnxruntime-gpu==1.19.2
 transformers==4.51.3
+numpy==1.26.4
 

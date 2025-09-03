@@ -10,7 +10,7 @@ def encode_image(image_path):
 # 创建客户端时指定自定义的 base URL
 client = OpenAI(
         base_url="https://api.gptsapi.net/v1",
-        api_key="sk-xVn71b67be63076f94f7658661ef8e7237d53382304HoP4x"
+        api_key="your key"
     )
 
 def encode_image(image_path):
